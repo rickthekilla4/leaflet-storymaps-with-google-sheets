@@ -9,7 +9,7 @@ body {
   height: 205px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid red;
   top: 0;
   left: 0;
 }
@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: blue;
+  background-color: grey;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -105,7 +105,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: purple;
+  color: red;
 }
 a.source:visited {
   color: red;
